@@ -44,7 +44,7 @@ categories: SNFM
                 <td>
 
 
-									<h1 class="">Get your free credit score now!</h1>
+									<h2 class="center">Get your free credit score now!</h2>
 
 								
 									
@@ -697,9 +697,14 @@ categories: SNFM
 
 
 
-
-
 <!-- coupon section -->
+
+
+<table class="row full-width-coupons">
+    <tr>
+        <td>
+
+
 <table class="container coupon-section">
     <tr>
         <td>
@@ -787,5 +792,13 @@ categories: SNFM
         </td>
     </tr>
 </table>
+
+</td>
+</tr>
+</table>
 <!-- End coupon section -->
+
+
+
+
 
