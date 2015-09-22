@@ -37,7 +37,7 @@
                 transition: all 225ms ease;
             }
             .header, .footer {
-                background: #999;
+                background: #666666;
             }
             .header {
                 margin-bottom: 4px;
@@ -45,6 +45,59 @@
        
             .footer {
                 margin-top: 100px;
+                min-height: 180px;           
+                 }
+
+
+            ul {
+              list-style-type:none;
+            }
+
+            .social  {
+
+              display:inline !important;
+            }
+
+         /*   table.button td, table.large-button td, table.medium-button td, table.small-button td, table.tiny-button td  {
+                background: #C71633;
+                border: 1px solid #C71633;
+                color: #fff;
+               
+              }*/
+
+/* nav buttons */
+
+             table.nav-button td {
+              background: #C71633;
+              border-color: #e72948;
+            }
+
+            table.nav-button:hover td {
+                background: #e72948 !important;
+            }
+
+
+/* free credit score button */
+
+             table.credit-button td {
+              background: #00b100;
+              border-color: green;
+            }
+
+            table.credit-button:hover td {
+                background: #00e400 !important;
+            }
+
+
+/* car buttons */
+
+             table.car-button td {
+              background: #666666;
+              border-color: #666666;
+            }
+
+            table.car-button:hover td {
+                background: #777777 !important;
             }
 
 /* cars section */
@@ -55,21 +108,45 @@
     		}
     		.car-title {
 
-    			font-size: 40px;
     			font-weight: 700;
     			color: gray;
     			line-height: 14px;
     		}
-    			.car-price {
+    		.car-price {
 
-    			font-size: 40px;
     			font-weight: 700;
-    			color: red;
+    			color: #C71633;
+          line-height: 60px;
     		}
+
+        .titan-car-price, .maxima-car-price {
+
+            font-weight: 700;
+            color: #C71633;
+            line-height: 30px;
+            padding-top: 10px;
+        }
+
     		.car-fine-print {
 
     			font-size: 10px;
+          line-height: 14px;
     		}
+
+
+/* coupon section*/
+
+   
+
+        .coupon-wrapper {
+          padding: 20px;
+          text-align: center;
+          border: 3px dashed #ccc;
+        }
+
+       
+            
+
 
         </style>
 
@@ -147,10 +224,10 @@
             <table class="three columns">
                 <tr>
                     <td>
-                        <table class="button radius">
+                        <table class="button radius nav-button">
                             <tr>
                                 <td>
-                                    <a href="#">I'm Radius</a>
+                                    <a href="#">Inventory</a>
                                 </td>
                             </tr>
                         </table>
@@ -163,10 +240,10 @@
             <table class="three columns">
                 <tr>
                     <td>
-                        <table class="button radius">
+                        <table class="button radius nav-button">
                             <tr>
                                 <td>
-                                    <a href="#">I'm Radius</a>
+                                    <a href="#">Finance</a>
                                 </td>
                             </tr>
                         </table>
@@ -179,10 +256,10 @@
             <table class="three columns">
                 <tr>
                     <td>
-                        <table class="button radius">
+                        <table class="button radius nav-button">
                             <tr>
                                 <td>
-                                    <a href="#">I'm Radius</a>
+                                    <a href="#">Service</a>
                                 </td>
                             </tr>
                         </table>
@@ -195,10 +272,10 @@
             <table class="three columns">
                 <tr>
                     <td>
-                        <table class="button radius">
+                        <table class="button radius nav-button">
                             <tr>
                                 <td>
-                                    <a href="#">I'm Round</a>
+                                    <a href="#">Directions</a>
                                 </td>
                             </tr>
                         </table>
@@ -276,7 +353,7 @@
             <table class="twelve columns">
                 <tr>
                     <td>
-                        <table class="button radius">
+                        <table class="button radius credit-button">
                             <tr>
                                 <td>
                                     <a href="#">Click Here!</a>
@@ -298,7 +375,7 @@
 
 <!-- cars -->
 
-<!-- car block -->
+<!-- Sentra block -->
 
 <table class="container cars">
   <tr>
@@ -352,10 +429,10 @@
             <table class="twelve columns">
                 <tr>
                     <td>
-                        <table class="button radius">
+                        <table class="button radius car-button">
                             <tr>
                                 <td>
-                                    <a href="#">Buy Me!</a>
+                                    <a href="#">View Sentra Inventory</a>
                                 </td>
                             </tr>
                         </table>
@@ -371,9 +448,599 @@
     </td>
   </tr>
 </table>
+
+<!-- end Sentra block -->
+
+<!-- Rogue Select block -->
+
+<table class="container cars">
+  <tr>
+    <td>
+
+      <table class="row">
+        <tr>
+          <td class="wrapper">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <img src="/img/cars/15-ROGUE-SELECT-SILVER.png" />
+                
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+          <td class="wrapper last">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <p class="car-intro">Brand New 2015 Nissan</p>
+
+                  <h2 class="car-title">Rogue Select s</h2>
+
+                  <h1 class="car-price">$169/mo</h1>
+
+                  <p class="car-fine-print">MDL# 29115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.</p>
+
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+
+       <table class="row">
+        <tr>
+         
+          <td class="wrapper last">
+
+            <table class="twelve columns">
+                <tr>
+                    <td>
+                        <table class="button radius car-button">
+                            <tr>
+                                <td>
+                                    <a href="#">View Rogue Inventory</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="expander"></td>
+                </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- end Rogue Select block -->
+
+<!-- Versa block -->
+
+<table class="container cars">
+  <tr>
+    <td>
+
+      <table class="row">
+        <tr>
+          <td class="wrapper">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <img src="/img/cars/versa.jpg" />
+                
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+          <td class="wrapper last">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <p class="car-intro">Brand New 2015 Nissan</p>
+
+                  <h1 class="car-title">Versa s</h1>
+
+                  <h1 class="car-price">$169/mo</h1>
+
+                  <p class="car-fine-print">MDL# 11155 - Two or more at this price plus tax, tag and title. Ask for details. $1500 due at signing.</p>
+
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+
+       <table class="row">
+        <tr>
+         
+          <td class="wrapper last">
+
+            <table class="twelve columns">
+                <tr>
+                    <td>
+                        <table class="button radius car-button">
+                            <tr>
+                                <td>
+                                    <a href="#">View Versa Inventory</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="expander"></td>
+                </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- end Versa block -->
+
+<!-- Altima block -->
+
+<table class="container cars">
+  <tr>
+    <td>
+
+      <table class="row">
+        <tr>
+          <td class="wrapper">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <img src="/img/cars/15-altima.png" />
+                
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+          <td class="wrapper last">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <p class="car-intro">Brand New 2015 Nissan</p>
+
+                  <h1 class="car-title">Altima 2.5 s</h1>
+
+                  <h1 class="car-price">$175/mo</h1>
+
+                  <p class="car-fine-print">MDL# 13115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.</p>
+
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+
+       <table class="row">
+        <tr>
+         
+          <td class="wrapper last">
+
+            <table class="twelve columns">
+                <tr>
+                    <td>
+                        <table class="button radius car-button">
+                            <tr>
+                                <td>
+                                    <a href="#">View Altima Inventory</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="expander"></td>
+                </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- end Altima block -->
+
+<!-- Murano block -->
+
+<table class="container cars">
+  <tr>
+    <td>
+
+      <table class="row">
+        <tr>
+          <td class="wrapper">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <img src="/img/cars/murano.png" />
+                
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+          <td class="wrapper last">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <p class="car-intro">Brand New 2015 Nissan</p>
+
+                  <h1 class="car-title">Murano s</h1>
+
+                  <h1 class="car-price">$289/mo</h1>
+
+                  <p class="car-fine-print">MDL# 23115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.</p>
+
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+
+       <table class="row">
+        <tr>
+         
+          <td class="wrapper last">
+
+            <table class="twelve columns">
+                <tr>
+                    <td>
+                        <table class="button radius car-button">
+                            <tr>
+                                <td>
+                                    <a href="#">View Murano Inventory</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="expander"></td>
+                </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- end Murano block -->
+
+<!-- Titan block -->
+
+<table class="container cars">
+  <tr>
+    <td>
+
+      <table class="row">
+        <tr>
+          <td class="wrapper">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <img src="/img/cars/titan.jpg" />
+                
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+          <td class="wrapper last">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <p class="car-intro">Brand New 2015 Nissan</p>
+
+                  <h1 class="car-title">Titan sv</h1>
+
+                  <h3 class="titan-car-price">$29,435 or</h3>
+                  <h3 class="titan-car-price">$8,000 off MSRP</h3>
+
+                  <p class="car-fine-print">MDL# 36315 - Two or more at this price plus tax, tag and title. Ask for details.</p>
+
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+
+       <table class="row">
+        <tr>
+         
+          <td class="wrapper last">
+
+            <table class="twelve columns">
+                <tr>
+                    <td>
+
+                        <table class="button radius car-button">
+                            <tr>
+                                <td>
+                                    <a href="#">View Titan Inventory</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="expander"></td>
+                </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- end Titan block -->
+
+<!-- Maxima block -->
+
+<table class="container cars">
+  <tr>
+    <td>
+
+      <table class="row">
+        <tr>
+          <td class="wrapper">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <img src="/img/cars/14-MAX.jpg" />
+                
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+          <td class="wrapper last">
+
+            <table class="six columns">
+              <tr>
+                <td>
+
+                  <p class="car-intro">Brand New 2014 Nissan</p>
+
+                  <h1 class="car-title">Maxima</h1>
+
+                  <h3 class="maxima-car-price">SAVE $10,000</h3>
+                  <h3 class="maxima-car-price">off MSRP</h3>
+                  
+                  <p class="car-fine-print">MDL# 16114 - Two or more at this price plus tax, tag and title. Ask for details.</p>
+
+                </td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+
+       <table class="row">
+        <tr>
+         
+          <td class="wrapper last">
+
+            <table class="twelve columns">
+                <tr>
+                    <td>
+                        <table class="button radius car-button">
+                            <tr>
+                                <td>
+                                    <a href="#">View Maxima Inventory</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="expander"></td>
+                </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- end Maxima block -->
+
 <hr />
 
-<!-- end car block -->
+<!-- Lifetime warranty block -->
+
+<table class="container cars">
+  <tr>
+    <td>
+
+       <table class="row">
+        <tr>
+         
+          <td class="wrapper last">
+
+            <table class="twelve columns">
+                <tr>
+                    <td>
+
+                  <img src="/img/SNFM-lifetime.jpg" class="center" />
+                  <br />
+
+                        <table class="button radius nav-button">
+                            <tr>
+                                <td>
+                                    <a href="#">Click here to browse New and Used Vehicles</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="expander"></td>
+                </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- end lifetime warranty block -->
+
+<!-- coupon section -->
+<table class="container coupon-section">
+    <tr>
+        <td>
+            <table class="row">
+              <tr>
+                  <td class="wrapper last">
+                      <table class="twelve columns">
+                          <tr>
+                              <td>
+                                  <h4 class="center">Plus, check out our Sutherlin Service Specials</h4>
+                                  <p class="center">Just print this email to redeem these offers.</p>
+                              </td>
+                              <td class="expander"></td>
+                          </tr>
+                      </table>
+                  </td>
+              </tr>
+          </table>
+            <table class="row">
+                <tr>
+                    <td class="wrapper">
+                        <table class="four columns">
+                            <tr>
+                                <td class="coupon-wrapper">
+                                    <h5 class="center">Oil Change with Tire Rotation</h5>
+                                    <h3 class="center">Only $39.99</h3>
+                                    <p class="car-fine-print">Up to 5 quarts regular oil. Synthetic and diesel may incur additional charges plus tax. Limit of one coupon per person. Cannot be combined with other offers. Offer ends 9/30/15</p>
+                                </td>
+                                <td class="expander"></td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="wrapper">
+                        <table class="four columns">
+                            <tr>
+                                <td class="coupon-wrapper">
+                                    <h5 class="center">Check Engine Light Diagnosis</h5>
+                                    <h3 class="center">50% Off</h3>
+                                    <p class="center">
+                                      *Scan &amp; retrieve check light code
+                                      *Perform full system diagnosis related to trouble code
+                                      *Consultation on recommended repair
+                                      *Complimentary multi-point inspection
+                                    </p>
+                                    <p class="car-fine-print">Plus tax. Limit of one coupon per person. Cannot be combined with other offers. Offer ends 9/30/15</p>      
+                                  </td>
+                                <td class="expander"></td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="wrapper last">
+                        <table class="four columns">
+                            <tr>
+                                <td class="coupon-wrapper">
+                                    <h3 class="center">20% Off</h3>
+                                    <p class="center">Any genuine Nissan accessories purchase of $100 (MSRP) or more.</p>
+                                    <p class="car-fine-print">Plus tax. Limit of one coupon per person. Cannot be combined with other offers. Not valid on prior purchases. Offer ends 9/30/15</p>
+                                </td>
+                                <td class="expander"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table class="row">
+              <tr> 
+                <td class="wrapper last">
+                  <table class="twelve columns">
+                    <tr>
+                      <td>
+                        <table class="button radius nav-button">
+                            <tr>
+                                <td>
+                                    <a href="#">Click here to schedule a service appointment</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="expander"></td>
+                </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+        </td>
+    </tr>
+</table>
+<!-- End coupon section -->
 
 
 
@@ -385,18 +1052,35 @@
         <td>
             <table class="container">
                 <tr>
-                    <td class="wrapper last">
-                        <table class="twelve columns">
+                    <td class="wrapper">
+                        <table class="eight columns">
                             <tr>
                                 <td class="center">
                                     <center>
-                                        <h4 class="center"><a href="https://scotch.io/tutorials/building-responsive-email-templates-with-ink">Check out the article on scotch.io</a></h4>
+                                        <h5>Click for directions</h5>
+                                        <img src="/img/3dmap.jpeg">
                                     </center>
                                 </td>
                                 <td class="expander"></td>
                             </tr>
                         </table>
                     </td>
+
+                      <td class="wrapper last">
+                        <table class="four columns">
+                            <tr>
+                                <td class="center">
+                                    <center>
+                                        <h5>Connect with us:</h5>
+                                        <img src="/img/facebook.png" class="social"><img src="/img/youtube.png" class="social">
+                                    </center>
+                                </td>
+                                <td class="expander"></td>
+                            </tr>
+                        </table>
+                    </td>
+
+
                 </tr>
             </table>
         </td>
