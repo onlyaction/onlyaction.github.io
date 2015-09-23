@@ -506,7 +506,7 @@ categories: SNFM
               <tr>
                 <td>
 
-                  <img src="/img/cars/titan.jpg">
+                  <img src="/img/cars/2015-titan.jpg">
                 
                 </td>
                 <td class="expander"></td>
@@ -670,7 +670,7 @@ categories: SNFM
                   <img src="/img/SNFM-lifetime.jpg" class="center">
                   <br />
 
-                        <table class="button radius nav-button">
+                        <table class="button radius warranty-button">
                             <tr>
                                 <td>
                                     <a href="#">Click here to browse New and Used Vehicles</a>
@@ -772,7 +772,7 @@ categories: SNFM
                   <table class="twelve columns">
                     <tr>
                       <td>
-                        <table class="button radius nav-button">
+                        <table class="button radius service-button">
                             <tr>
                                 <td>
                                     <a href="#">Click here to schedule a service appointment</a>
