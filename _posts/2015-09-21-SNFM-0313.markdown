@@ -651,9 +651,6 @@ categories: SNFM
 <!-- end Maxima block -->
 
 
-<hr />
-
-
 
 <!-- Lifetime warranty block -->
 
