@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Sep 2015 14:08:59 -0400</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2015 14:08:59 -0400</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2015 15:42:39 -0400</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2015 15:42:39 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -50,7 +50,7 @@
 						&lt;table class=&quot;twelve columns&quot;&gt;
 							&lt;tr&gt;
 								&lt;td&gt;
-									&lt;img src=&quot;/img/SNFM-0313-hero.jpg&quot; /&gt;
+									&lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/SNFM-0313-hero.jpg&quot; /&gt;
 								&lt;/td&gt;
 								&lt;td class=&quot;expander&quot;&gt;&lt;/td&gt;
 							&lt;/tr&gt;
@@ -122,6 +122,38 @@
 
 &lt;!-- cars --&gt;
 
+&lt;!-- BLOCK GRID EXP Sentra block --&gt;
+
+&lt;table class=&quot;container&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+
+      &lt;table class=&quot;block-grid two-up&quot;&gt;
+        &lt;tr&gt;
+          &lt;td&gt;
+
+                  &lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/sentra.png&quot; /&gt;
+
+          &lt;/td&gt;&lt;td&gt; &lt;!-- Make sure the tags are directly next to each other --&gt;
+
+                  &lt;p class=&quot;car-intro&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+
+                  &lt;h2 class=&quot;car-title&quot;&gt;Sentra s&lt;/h2&gt;
+
+                  &lt;h1 class=&quot;car-price&quot;&gt;$99/mo&lt;/h1&gt;
+
+                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 12015 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $2499 due at signing.&lt;/p&gt;
+
+          &lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!-- BLOCK GRID EXP end Sentra block --&gt;
+
 &lt;!-- Sentra block --&gt;
 
 &lt;table class=&quot;container cars&quot;&gt;
@@ -136,7 +168,7 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-									&lt;img src=&quot;/img/cars/sentra.png&quot; /&gt;
+									&lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/sentra.png&quot; /&gt;
                 
                 &lt;/td&gt;
                 &lt;td class=&quot;expander&quot;&gt;&lt;/td&gt;
@@ -150,11 +182,15 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-									&lt;p class=&quot;car-intro&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro hide-for-small&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+									&lt;p class=&quot;car-intro show-for-small center&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
 
-									&lt;h1 class=&quot;car-title&quot;&gt;Sentra s&lt;/h1&gt;
+									&lt;h2 class=&quot;car-title hide-for-small&quot;&gt;Sentra s&lt;/h2&gt;
+                  &lt;h1 class=&quot;small-car-title show-for-small center&quot;&gt;Sentra s&lt;/h1&gt;
 
-									&lt;h1 class=&quot;car-price&quot;&gt;$99/mo&lt;/h1&gt;
+
+									&lt;h1 class=&quot;car-price hide-for-small&quot;&gt;$99/mo&lt;/h1&gt;
+                  &lt;h1 class=&quot;small-car-price show-for-small center&quot;&gt;$99/mo&lt;/h1&gt;
 
 									&lt;p class=&quot;car-fine-print&quot;&gt;MDL# 12015 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $2499 due at signing.&lt;/p&gt;
 
@@ -212,7 +248,7 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;img src=&quot;/img/cars/15-ROGUE-SELECT-SILVER.png&quot; /&gt;
+                  &lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/15-ROGUE-SELECT-SILVER.png&quot; /&gt;
                 
                 &lt;/td&gt;
                 &lt;td class=&quot;expander&quot;&gt;&lt;/td&gt;
@@ -226,11 +262,14 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;p class=&quot;car-intro&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro hide-for-small&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro show-for-small center&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
 
-                  &lt;h2 class=&quot;car-title&quot;&gt;Rogue Select s&lt;/h2&gt;
+                  &lt;h2 class=&quot;car-title hide-for-small&quot;&gt;Rogue Select s&lt;/h2&gt;
+                  &lt;h1 class=&quot;small-car-title show-for-small center&quot;&gt;Rogue Select s&lt;/h1&gt;
 
-                  &lt;h1 class=&quot;car-price&quot;&gt;$169/mo&lt;/h1&gt;
+                  &lt;h1 class=&quot;car-price hide-for-small&quot;&gt;$169/mo&lt;/h1&gt;
+                  &lt;h1 class=&quot;small-car-price show-for-small center&quot;&gt;$169/mo&lt;/h1&gt;
 
                   &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 29115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.&lt;/p&gt;
 
@@ -288,7 +327,7 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;img src=&quot;/img/cars/versa.jpg&quot; /&gt;
+                  &lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/versa.jpg&quot; /&gt;
                 
                 &lt;/td&gt;
                 &lt;td class=&quot;expander&quot;&gt;&lt;/td&gt;
@@ -302,11 +341,14 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;p class=&quot;car-intro&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro hide-for-small&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro show-for-small center&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
 
-                  &lt;h1 class=&quot;car-title&quot;&gt;Versa s&lt;/h1&gt;
+                  &lt;h2 class=&quot;car-title hide-for-small&quot;&gt;Versa s&lt;/h2&gt;
+                  &lt;h1 class=&quot;small-car-title show-for-small center&quot;&gt;Versa s&lt;/h1&gt;
 
-                  &lt;h1 class=&quot;car-price&quot;&gt;$169/mo&lt;/h1&gt;
+                  &lt;h1 class=&quot;car-price hide-for-small&quot;&gt;$169/mo&lt;/h1&gt;
+                  &lt;h1 class=&quot;small-car-price show-for-small center&quot;&gt;$169/mo&lt;/h1&gt;
 
                   &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 11155 - Two or more at this price plus tax, tag and title. Ask for details. $1500 due at signing.&lt;/p&gt;
 
@@ -364,7 +406,7 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;img src=&quot;/img/cars/15-altima.png&quot; /&gt;
+                  &lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/15-altima.png&quot; /&gt;
                 
                 &lt;/td&gt;
                 &lt;td class=&quot;expander&quot;&gt;&lt;/td&gt;
@@ -378,11 +420,15 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;p class=&quot;car-intro&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
 
-                  &lt;h1 class=&quot;car-title&quot;&gt;Altima 2.5 s&lt;/h1&gt;
+                  &lt;p class=&quot;car-intro hide-for-small&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro show-for-small center&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
 
-                  &lt;h1 class=&quot;car-price&quot;&gt;$175/mo&lt;/h1&gt;
+                  &lt;h2 class=&quot;car-title hide-for-small&quot;&gt;Altima 2.5 s&lt;/h2&gt;
+                  &lt;h1 class=&quot;small-car-title show-for-small center&quot;&gt;Altima 2.5 s&lt;/h1&gt;
+
+                  &lt;h1 class=&quot;car-price hide-for-small&quot;&gt;$175/mo&lt;/h1&gt;
+                  &lt;h1 class=&quot;small-car-price show-for-small center&quot;&gt;$175/mo&lt;/h1&gt;
 
                   &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 13115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.&lt;/p&gt;
 
@@ -440,7 +486,7 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;img src=&quot;/img/cars/murano.png&quot; /&gt;
+                  &lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/murano.png&quot; /&gt;
                 
                 &lt;/td&gt;
                 &lt;td class=&quot;expander&quot;&gt;&lt;/td&gt;
@@ -454,11 +500,15 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;p class=&quot;car-intro&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
 
-                  &lt;h1 class=&quot;car-title&quot;&gt;Murano s&lt;/h1&gt;
+                  &lt;p class=&quot;car-intro hide-for-small&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro show-for-small center&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
 
-                  &lt;h1 class=&quot;car-price&quot;&gt;$289/mo&lt;/h1&gt;
+                  &lt;h2 class=&quot;car-title hide-for-small&quot;&gt;Murano s&lt;/h2&gt;
+                  &lt;h1 class=&quot;small-car-title show-for-small center&quot;&gt;Murano s&lt;/h1&gt;
+
+                  &lt;h1 class=&quot;car-price hide-for-small&quot;&gt;$289/mo&lt;/h1&gt;
+                  &lt;h1 class=&quot;small-car-price show-for-small center&quot;&gt;$289/mo&lt;/h1&gt;
 
                   &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 23115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.&lt;/p&gt;
 
@@ -516,7 +566,7 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;img src=&quot;/img/cars/2015-titan.jpg&quot; /&gt;
+                  &lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/2015-Titan.jpg&quot; /&gt;
                 
                 &lt;/td&gt;
                 &lt;td class=&quot;expander&quot;&gt;&lt;/td&gt;
@@ -530,12 +580,17 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;p class=&quot;car-intro&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro hide-for-small&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro show-for-small center&quot;&gt;Brand New 2015 Nissan&lt;/p&gt;
 
-                  &lt;h1 class=&quot;car-title&quot;&gt;Titan sv&lt;/h1&gt;
+                  &lt;h2 class=&quot;car-title hide-for-small&quot;&gt;Titan sv&lt;/h2&gt;
+                  &lt;h1 class=&quot;small-car-title show-for-small center&quot;&gt;Titan sv&lt;/h1&gt;
 
-                  &lt;h3 class=&quot;titan-car-price&quot;&gt;$29,435 or&lt;/h3&gt;
-                  &lt;h3 class=&quot;titan-car-price&quot;&gt;$8,000 off MSRP&lt;/h3&gt;
+                  &lt;h3 class=&quot;titan-car-price hide-for-small&quot;&gt;$29,435 or&lt;/h3&gt;
+                  &lt;h3 class=&quot;titan-car-price hide-for-small&quot;&gt;$8,000 off MSRP&lt;/h3&gt;
+
+                  &lt;h3 class=&quot;small-titan-car-price show-for-small center&quot;&gt;$29,435 or&lt;/h3&gt;
+                  &lt;h3 class=&quot;small-titan-car-price show-for-small center&quot;&gt;$8,000 off MSRP&lt;/h3&gt;
 
                   &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 36315 - Two or more at this price plus tax, tag and title. Ask for details.&lt;/p&gt;
 
@@ -594,7 +649,7 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;img src=&quot;/img/cars/14-MAX.jpg&quot; /&gt;
+                  &lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/14-MAX.jpg&quot; /&gt;
                 
                 &lt;/td&gt;
                 &lt;td class=&quot;expander&quot;&gt;&lt;/td&gt;
@@ -608,12 +663,18 @@
               &lt;tr&gt;
                 &lt;td&gt;
 
-                  &lt;p class=&quot;car-intro&quot;&gt;Brand New 2014 Nissan&lt;/p&gt;
 
-                  &lt;h1 class=&quot;car-title&quot;&gt;Maxima&lt;/h1&gt;
+                  &lt;p class=&quot;car-intro hide-for-small&quot;&gt;Brand New 2014 Nissan&lt;/p&gt;
+                  &lt;p class=&quot;car-intro show-for-small center&quot;&gt;Brand New 2014 Nissan&lt;/p&gt;
 
-                  &lt;h3 class=&quot;maxima-car-price&quot;&gt;SAVE $10,000&lt;/h3&gt;
-                  &lt;h3 class=&quot;maxima-car-price&quot;&gt;off MSRP&lt;/h3&gt;
+                  &lt;h2 class=&quot;car-title hide-for-small&quot;&gt;Maxima&lt;/h2&gt;
+                  &lt;h1 class=&quot;small-car-title show-for-small center&quot;&gt;Maxima&lt;/h1&gt;
+
+                  &lt;h3 class=&quot;titan-car-price hide-for-small&quot;&gt;SAVE $10,000&lt;/h3&gt;
+                  &lt;h3 class=&quot;titan-car-price hide-for-small&quot;&gt;off MSRP&lt;/h3&gt;
+
+                  &lt;h3 class=&quot;small-titan-car-price show-for-small center&quot;&gt;SAVE $10,000&lt;/h3&gt;
+                  &lt;h3 class=&quot;small-titan-car-price show-for-small center&quot;&gt;off MSRP&lt;/h3&gt;
                   
                   &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 16114 - Two or more at this price plus tax, tag and title. Ask for details.&lt;/p&gt;
 
@@ -672,7 +733,7 @@
                 &lt;tr&gt;
                     &lt;td&gt;
 
-                  &lt;img src=&quot;/img/SNFM-lifetime.jpg&quot; class=&quot;center&quot; /&gt;
+                  &lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/SNFM-lifetime.jpg&quot; class=&quot;center&quot; /&gt;
                   &lt;br /&gt;
 
                         &lt;table class=&quot;button radius warranty-button&quot;&gt;
