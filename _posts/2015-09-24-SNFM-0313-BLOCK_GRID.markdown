@@ -1,6 +1,6 @@
 ---
 layout: SNFM-post
-title:  "Sutherlin Nissan"
+title:  "Sutherlin Nissan BLOCK"
 date:   2015-09-21 12:01:30
 categories: SNFM
 ---
@@ -43,10 +43,7 @@ categories: SNFM
               <tr>
                 <td>
 
-
-									<h2 class="center">Get your free credit score now!</h2>
-
-								
+					<h2 class="center">Get your free credit score now!</h2>
 									
                 </td>
                 <td class="expander"></td>
@@ -92,55 +89,32 @@ categories: SNFM
 
 
 
-<!-- Sentra block -->
 
-<table class="container cars">
+<!-- BLOCK GRID EXP Sentra block -->
+
+<table class="container">
   <tr>
     <td>
 
-      <table class="row">
+      <table class="block-grid two-up">
         <tr>
-          <td class="wrapper">
+          <td>
 
-            <table class="six columns">
-              <tr>
-                <td>
+                  <img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/sentra.png">
 
-									<img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/sentra.png">
-                
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
+          </td><td> <!-- Make sure the tags are directly next to each other -->
 
-          </td>
-          <td class="wrapper last">
+                  <p class="car-intro">Brand New 2015 Nissan</p>
 
-            <table class="six columns">
-              <tr>
-                <td>
+                  <h2 class="car-title">Sentra s</h2>
 
-                  <p class="car-intro hide-for-small">Brand New 2015 Nissan</p>
-									<p class="car-intro show-for-small center">Brand New 2015 Nissan</p>
+                  <h1 class="car-price">$99/mo</h1>
 
-									<h2 class="car-title hide-for-small">Sentra s</h2>
-                  <h1 class="small-car-title show-for-small center">Sentra s</h1>
-
-
-									<h1 class="car-price hide-for-small">$99/mo</h1>
-                  <h1 class="small-car-price show-for-small center">$99/mo</h1>
-
-									<p class="car-fine-print">MDL# 12015 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $2499 due at signing.</p>
-
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
+                  <p class="car-fine-print">MDL# 12015 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $2499 due at signing.</p>
 
           </td>
         </tr>
       </table>
-
 
        <table class="row">
         <tr>
@@ -165,64 +139,43 @@ categories: SNFM
           </td>
         </tr>
       </table>
-
     </td>
   </tr>
 </table>
 
-<!-- end Sentra block -->
+<!-- BLOCK GRID EXP end Sentra block -->
 
 
 
 
-<!-- Rogue Select block -->
 
-<table class="container cars">
+
+
+<!-- BLOCK GRID EXP Rogue Select block -->
+
+<table class="container">
   <tr>
     <td>
 
-      <table class="row">
+      <table class="block-grid two-up">
         <tr>
-          <td class="wrapper">
-
-            <table class="six columns">
-              <tr>
-                <td>
+          <td>
 
                   <img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/15-ROGUE-SELECT-SILVER.png">
-                
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
-          </td>
-          <td class="wrapper last">
+          </td><td> <!-- Make sure the tags are directly next to each other -->
 
-            <table class="six columns">
-              <tr>
-                <td>
+                  <p class="car-intro">Brand New 2015 Nissan</p>
 
-                  <p class="car-intro hide-for-small">Brand New 2015 Nissan</p>
-                  <p class="car-intro show-for-small center">Brand New 2015 Nissan</p>
+                  <h2 class="car-title">Rogue Select s</h2>
 
-                  <h2 class="car-title hide-for-small">Rogue Select s</h2>
-                  <h1 class="small-car-title show-for-small center">Rogue Select s</h1>
-
-                  <h1 class="car-price hide-for-small">$169/mo</h1>
-                  <h1 class="small-car-price show-for-small center">$169/mo</h1>
+                  <h1 class="car-price">$169/mo</h1>
 
                   <p class="car-fine-print">MDL# 29115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.</p>
-
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
           </td>
         </tr>
       </table>
-
 
        <table class="row">
         <tr>
@@ -247,67 +200,42 @@ categories: SNFM
           </td>
         </tr>
       </table>
-
+ 
     </td>
   </tr>
 </table>
 
-<!-- end Rogue Select block -->
+<!-- BLOCK GRID EXP end Rogue Select block -->
 
 
 
 
 
+<!-- BLOCK GRID EXP Versa block -->
 
-
-<!-- Versa block -->
-
-<table class="container cars">
+<table class="container">
   <tr>
     <td>
 
-      <table class="row">
+      <table class="block-grid two-up">
         <tr>
-          <td class="wrapper">
-
-            <table class="six columns">
-              <tr>
-                <td>
+          <td>
 
                   <img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/versa.jpg">
-                
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
-          </td>
-          <td class="wrapper last">
+          </td><td> <!-- Make sure the tags are directly next to each other -->
 
-            <table class="six columns">
-              <tr>
-                <td>
+                  <p class="car-intro">Brand New 2015 Nissan</p>
 
-                  <p class="car-intro hide-for-small">Brand New 2015 Nissan</p>
-                  <p class="car-intro show-for-small center">Brand New 2015 Nissan</p>
+                  <h2 class="car-title">Versa s</h2>
 
-                  <h2 class="car-title hide-for-small">Versa s</h2>
-                  <h1 class="small-car-title show-for-small center">Versa s</h1>
-
-                  <h1 class="car-price hide-for-small">$169/mo</h1>
-                  <h1 class="small-car-price show-for-small center">$169/mo</h1>
+                  <h1 class="car-price">$169/mo</h1>
 
                   <p class="car-fine-print">MDL# 11155 - Two or more at this price plus tax, tag and title. Ask for details. $1500 due at signing.</p>
-
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
           </td>
         </tr>
       </table>
-
 
        <table class="row">
         <tr>
@@ -332,65 +260,44 @@ categories: SNFM
           </td>
         </tr>
       </table>
-
+ 
     </td>
   </tr>
 </table>
 
-<!-- end Versa block -->
+<!-- BLOCK GRID EXP end Versa  block -->
 
 
 
 
-<!-- Altima block -->
 
-<table class="container cars">
+
+
+<!-- BLOCK GRID EXP ALTIMA block -->
+
+<table class="container">
   <tr>
     <td>
 
-      <table class="row">
+      <table class="block-grid two-up">
         <tr>
-          <td class="wrapper">
-
-            <table class="six columns">
-              <tr>
-                <td>
+          <td>
 
                   <img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/15-altima.png">
-                
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
-          </td>
-          <td class="wrapper last">
+          </td><td> <!-- Make sure the tags are directly next to each other -->
 
-            <table class="six columns">
-              <tr>
-                <td>
+                  <p class="car-intro">Brand New 2015 Nissan</p>
 
+                  <h2 class="car-title">Altima 2.5 s</h2>
 
-                  <p class="car-intro hide-for-small">Brand New 2015 Nissan</p>
-                  <p class="car-intro show-for-small center">Brand New 2015 Nissan</p>
-
-                  <h2 class="car-title hide-for-small">Altima 2.5 s</h2>
-                  <h1 class="small-car-title show-for-small center">Altima 2.5 s</h1>
-
-                  <h1 class="car-price hide-for-small">$175/mo</h1>
-                  <h1 class="small-car-price show-for-small center">$175/mo</h1>
+                  <h1 class="car-price">$175/mo</h1>
 
                   <p class="car-fine-print">MDL# 13115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.</p>
-
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
           </td>
         </tr>
       </table>
-
 
        <table class="row">
         <tr>
@@ -415,68 +322,43 @@ categories: SNFM
           </td>
         </tr>
       </table>
-
+ 
     </td>
   </tr>
 </table>
 
-<!-- end Altima block -->
+<!-- BLOCK GRID EXP end ALTIMA  block -->
 
 
 
 
 
 
+<!-- BLOCK GRID EXP MURANO block -->
 
-<!-- Murano block -->
-
-<table class="container cars">
+<table class="container">
   <tr>
     <td>
 
-      <table class="row">
+      <table class="block-grid two-up">
         <tr>
-          <td class="wrapper">
-
-            <table class="six columns">
-              <tr>
-                <td>
+          <td>
 
                   <img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/murano.png">
-                
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
-          </td>
-          <td class="wrapper last">
+          </td><td> <!-- Make sure the tags are directly next to each other -->
 
-            <table class="six columns">
-              <tr>
-                <td>
+                  <p class="car-intro">Brand New 2015 Nissan</p>
 
+                  <h2 class="car-title">Murano s</h2>
 
-                  <p class="car-intro hide-for-small">Brand New 2015 Nissan</p>
-                  <p class="car-intro show-for-small center">Brand New 2015 Nissan</p>
-
-                  <h2 class="car-title hide-for-small">Murano s</h2>
-                  <h1 class="small-car-title show-for-small center">Murano s</h1>
-
-                  <h1 class="car-price hide-for-small">$289/mo</h1>
-                  <h1 class="small-car-price show-for-small center">$289/mo</h1>
+                  <h1 class="car-price">$289/mo</h1>
 
                   <p class="car-fine-print">MDL# 23115 - 36 Month 12k Miles/Yr Lease - Two or more at this price plus tax, tag and title. Ask for details. $1999 due at signing.</p>
-
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
           </td>
         </tr>
       </table>
-
 
        <table class="row">
         <tr>
@@ -501,67 +383,47 @@ categories: SNFM
           </td>
         </tr>
       </table>
-
+ 
     </td>
   </tr>
 </table>
 
-<!-- end Murano block -->
+<!-- BLOCK GRID EXP end MURANO  block -->
 
 
 
 
-<!-- Titan block -->
 
-<table class="container cars">
+
+
+
+<!-- BLOCK GRID EXP TITAN block -->
+
+<table class="container">
   <tr>
     <td>
 
-      <table class="row">
+      <table class="block-grid two-up">
         <tr>
-          <td class="wrapper">
-
-            <table class="six columns">
-              <tr>
-                <td>
+          <td>
 
                   <img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/2015-Titan.jpg">
-                
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
-          </td>
-          <td class="wrapper last">
+          </td><td> <!-- Make sure the tags are directly next to each other -->
 
-            <table class="six columns">
-              <tr>
-                <td>
+                  <p class="car-intro">Brand New 2015 Nissan</p>
 
-                  <p class="car-intro hide-for-small">Brand New 2015 Nissan</p>
-                  <p class="car-intro show-for-small center">Brand New 2015 Nissan</p>
+                  <h2 class="car-title">Titan sv</h2>
 
-                  <h2 class="car-title hide-for-small">Titan sv</h2>
-                  <h1 class="small-car-title show-for-small center">Titan sv</h1>
+                  <h3 class="titan-car-price">$29,435 or</h3>
+                  <h3 class="titan-car-price">$8,000 off MSRP</h3>
 
-                  <h3 class="titan-car-price hide-for-small">$29,435 or</h3>
-                  <h3 class="titan-car-price hide-for-small">$8,000 off MSRP</h3>
-
-                  <h3 class="small-titan-car-price show-for-small center">$29,435 or</h3>
-                  <h3 class="small-titan-car-price show-for-small center">$8,000 off MSRP</h3>
 
                   <p class="car-fine-print">MDL# 36315 - Two or more at this price plus tax, tag and title. Ask for details.</p>
-
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
           </td>
         </tr>
       </table>
-
 
        <table class="row">
         <tr>
@@ -571,7 +433,6 @@ categories: SNFM
             <table class="twelve columns">
                 <tr>
                     <td>
-
                         <table class="button radius car-button">
                             <tr>
                                 <td>
@@ -587,68 +448,49 @@ categories: SNFM
           </td>
         </tr>
       </table>
-
+ 
     </td>
   </tr>
 </table>
 
-<!-- end Titan block -->
+<!-- BLOCK GRID EXP end TITAN  block -->
 
 
 
 
-<!-- Maxima block -->
 
-<table class="container cars">
+
+
+
+
+
+<!-- BLOCK GRID EXP MAXIMA block -->
+
+<table class="container">
   <tr>
     <td>
 
-      <table class="row">
+      <table class="block-grid two-up">
         <tr>
-          <td class="wrapper">
-
-            <table class="six columns">
-              <tr>
-                <td>
+          <td>
 
                   <img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0313/img/cars/14-MAX.jpg">
-                
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
-          </td>
-          <td class="wrapper last">
+          </td><td> <!-- Make sure the tags are directly next to each other -->
 
-            <table class="six columns">
-              <tr>
-                <td>
+                  <p class="car-intro">Brand New 2014 Nissan</p>
+
+                  <h2 class="car-title">Maxima</h2>
+
+                  <h3 class="titan-car-price">SAVE $10,000</h3>
+                  <h3 class="titan-car-price">off MSRP</h3>
 
 
-                  <p class="car-intro hide-for-small">Brand New 2014 Nissan</p>
-                  <p class="car-intro show-for-small center">Brand New 2014 Nissan</p>
-
-                  <h2 class="car-title hide-for-small">Maxima</h2>
-                  <h1 class="small-car-title show-for-small center">Maxima</h1>
-
-                  <h3 class="titan-car-price hide-for-small">SAVE $10,000</h3>
-                  <h3 class="titan-car-price hide-for-small">off MSRP</h3>
-
-                  <h3 class="small-titan-car-price show-for-small center">SAVE $10,000</h3>
-                  <h3 class="small-titan-car-price show-for-small center">off MSRP</h3>
-                  
                   <p class="car-fine-print">MDL# 16114 - Two or more at this price plus tax, tag and title. Ask for details.</p>
-
-                </td>
-                <td class="expander"></td>
-              </tr>
-            </table>
 
           </td>
         </tr>
       </table>
-
 
        <table class="row">
         <tr>
@@ -673,12 +515,15 @@ categories: SNFM
           </td>
         </tr>
       </table>
-
+ 
     </td>
   </tr>
 </table>
 
-<!-- end Maxima block -->
+<!-- BLOCK GRID EXP end MAXIMA  block -->
+
+
+
 
 
 
@@ -721,6 +566,69 @@ categories: SNFM
 </table>
 
 <!-- end lifetime warranty block -->
+
+
+
+
+
+
+
+<!--  block grid coupon section -->
+
+<!-- 
+
+<table class="container coupon-section">
+  <tr>
+    <td>
+
+	 <table class="twelve columns">
+          <tr>
+              <td>
+                  <h4 class="center">Plus, check out our Sutherlin Service Specials</h4>
+                  <p class="center">Just print this email to redeem these offers.</p>
+              </td>
+              <td class="expander"></td>
+          </tr>
+      </table>
+
+
+      <table class="block-grid three-up">
+        <tr>
+          <td class="coupon-wrapper">
+
+            <h5 class="center">Oil Change with Tire Rotation</h5>
+            <h3 class="center">Only $39.99</h3>
+            <p class="car-fine-print">Up to 5 quarts regular oil. Synthetic and diesel may incur additional charges plus tax. Limit of one coupon per person. Cannot be combined with other offers. Offer ends 9/30/15</p>
+
+          </td><td class="coupon-wrapper"> 
+
+            <h5 class="center">Check Engine Light Diagnosis</h5>
+            <h3 class="center">50% Off</h3>
+            <p class="center">
+              *Scan & retrieve check light code
+              *Perform full system diagnosis related to trouble code
+              *Consultation on recommended repair
+              *Complimentary multi-point inspection
+            </p>
+            <p class="car-fine-print">Plus tax. Limit of one coupon per person. Cannot be combined with other offers. Offer ends 9/30/15</p>
+
+          </td><td class="coupon-wrapper"> <
+
+            <h3 class="center">20% Off</h3>
+            <p class="center">Any genuine Nissan accessories purchase of $100 (MSRP) or more.</p>
+            <p class="car-fine-print">Plus tax. Limit of one coupon per person. Cannot be combined with other offers. Not valid on prior purchases. Offer ends 9/30/15</p>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+ -->
+
+<!-- end block grid coupon section -->
+
 
 
 
