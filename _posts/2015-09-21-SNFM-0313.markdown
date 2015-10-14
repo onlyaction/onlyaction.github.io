@@ -1,5 +1,5 @@
 ---
-layout: SNFM-post
+layout: SNFM-default
 title:  "Sutherlin Nissan"
 date:   2015-09-21 12:01:30
 categories: SNFM
