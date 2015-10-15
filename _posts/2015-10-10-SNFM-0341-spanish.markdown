@@ -13,13 +13,21 @@ categories: SNFM, SNFM-spanish
 </tr>
 
 <tr>
+	<td class="call-to-action">
+		<h1>¡Apúrate! Los Mejores</h1>
+		<h1>Ahorros Todo El Mes!</h1>
+		<br />
+	</td>
+</tr>
+
+<tr>
 	<td class="full-width-image">
 		<img src="http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0335-prizewheel.jpeg" width="600" alt="" />
 	</td>
 </tr>
 
 <tr>
-	<td class="call-to-action">
+	<td class="call-to-action-credit">
 		<h1>Obtenga su puntuación de crédito gratis</h1>
 	</td>
 </tr>

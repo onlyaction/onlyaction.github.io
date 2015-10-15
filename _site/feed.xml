@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Oct 2015 14:50:54 -0400</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2015 14:50:54 -0400</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2015 12:08:44 -0400</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2015 12:08:44 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,17 +21,22 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-	&lt;td class=&quot;full-width-image&quot;&gt;
-		&lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0335-prizewheel.jpeg&quot; width=&quot;600&quot; alt=&quot;&quot; /&gt;
-
+	&lt;td class=&quot;call-to-action&quot;&gt;
+		&lt;h1&gt;¡Apúrate! Los Mejores&lt;/h1&gt;
+		&lt;h1&gt;Ahorros Todo El Mes!&lt;/h1&gt;
+		&lt;br /&gt;
 	&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-	&lt;td class=&quot;call-to-action&quot;&gt;
+	&lt;td class=&quot;full-width-image&quot;&gt;
+		&lt;img src=&quot;http://www.eventformprocess.com/HTML-email/SNFM/SNFM-0335-prizewheel.jpeg&quot; width=&quot;600&quot; alt=&quot;&quot; /&gt;
+	&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td class=&quot;call-to-action-credit&quot;&gt;
 		&lt;h1&gt;Obtenga su puntuación de crédito gratis&lt;/h1&gt;
-	
-		
 	&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -87,10 +92,10 @@
 						&lt;table class=&quot;contents&quot;&gt;
 							&lt;tr&gt;
 								&lt;td class=&quot;&quot;&gt;
-									  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
-	                  &lt;h2 class=&quot;car-title&quot;&gt;Sentra s&lt;/h2&gt;
-	                  &lt;h1 class=&quot;car-price&quot;&gt;$99/mes&lt;/h1&gt;
-	                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 12015. 36 meses, 12k millas por arrendamiento del año. $2499 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;  
+									&lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
+	                 &lt;h2 class=&quot;car-title&quot;&gt;Sentra s&lt;/h2&gt;
+	                 &lt;h1 class=&quot;car-price&quot;&gt;$99/mes&lt;/h1&gt;
+	                 &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 12015. 36 meses, 12k millas por arrendamiento del año. $2499 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;  
 								&lt;/td&gt;
 							&lt;/tr&gt;
 						&lt;/table&gt;
@@ -157,10 +162,10 @@
 						&lt;table class=&quot;contents&quot;&gt;
 							&lt;tr&gt;
 								&lt;td class=&quot;&quot;&gt;
-									  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
-	                  &lt;h2 class=&quot;car-title&quot;&gt;Rogue Select s&lt;/h2&gt;
-	                  &lt;h1 class=&quot;car-price&quot;&gt;$169/mes&lt;/h1&gt;
-	                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 29115. 36 meses, 12k millas por arrendamiento del año. $1999 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;  
+								  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
+                  &lt;h2 class=&quot;car-title&quot;&gt;Rogue Select s&lt;/h2&gt;
+                  &lt;h1 class=&quot;car-price&quot;&gt;$169/mes&lt;/h1&gt;
+                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 29115. 36 meses, 12k millas por arrendamiento del año. $1999 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;
 								&lt;/td&gt;
 							&lt;/tr&gt;
 						&lt;/table&gt;
@@ -227,10 +232,10 @@
 						&lt;table class=&quot;contents&quot;&gt;
 							&lt;tr&gt;
 								&lt;td class=&quot;&quot;&gt;
-									  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
-	                  &lt;h2 class=&quot;car-title&quot;&gt;Versa s&lt;/h2&gt;
-	                  &lt;h1 class=&quot;car-price&quot;&gt;$169/mes&lt;/h1&gt;
-	                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 11155. 36 meses, 12k millas por arrendamiento del año. $1500 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;  
+								  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
+                  &lt;h2 class=&quot;car-title&quot;&gt;Versa s&lt;/h2&gt;
+                  &lt;h1 class=&quot;car-price&quot;&gt;$169/mes&lt;/h1&gt;
+                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 11155. 36 meses, 12k millas por arrendamiento del año. $1500 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;
 								&lt;/td&gt;
 							&lt;/tr&gt;
 						&lt;/table&gt;
@@ -297,10 +302,10 @@
 						&lt;table class=&quot;contents&quot;&gt;
 							&lt;tr&gt;
 								&lt;td class=&quot;&quot;&gt;
-									  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
-	                  &lt;h2 class=&quot;car-title&quot;&gt;Altima 2.5 s&lt;/h2&gt;
-	                  &lt;h1 class=&quot;car-price&quot;&gt;$175/mes&lt;/h1&gt;
-	                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 13115. 36 meses, 12k millas por arrendamiento del año. $1999 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;  
+								  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
+                  &lt;h2 class=&quot;car-title&quot;&gt;Altima 2.5 s&lt;/h2&gt;
+                  &lt;h1 class=&quot;car-price&quot;&gt;$175/mes&lt;/h1&gt;
+                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 13115. 36 meses, 12k millas por arrendamiento del año. $1999 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;
 								&lt;/td&gt;
 							&lt;/tr&gt;
 						&lt;/table&gt;
@@ -323,7 +328,7 @@
 					 &lt;table class=&quot;button radius car-button&quot;&gt;
               &lt;tr&gt;
                   &lt;td&gt;
-                      &lt;a href=&quot;http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&amp;amp;year=&amp;amp;make=Nissan&amp;amp;model=Altima&amp;amp;body=&amp;amp;type=new&amp;amp;utm_source=action&amp;amp;utm_medium=email&amp;amp;utm_term=Altima&amp;amp;utm_campaign=SNFM-0338&quot;&gt;Ver Altima Inventario&lt;/a&gt;
+                    &lt;a href=&quot;http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&amp;amp;year=&amp;amp;make=Nissan&amp;amp;model=Altima&amp;amp;body=&amp;amp;type=new&amp;amp;utm_source=action&amp;amp;utm_medium=email&amp;amp;utm_term=Altima&amp;amp;utm_campaign=SNFM-0338&quot;&gt;Ver Altima Inventario&lt;/a&gt;
                   &lt;/td&gt;
               &lt;/tr&gt;
           &lt;/table&gt;
@@ -367,10 +372,10 @@
 						&lt;table class=&quot;contents&quot;&gt;
 							&lt;tr&gt;
 								&lt;td class=&quot;&quot;&gt;
-									  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
-	                  &lt;h2 class=&quot;car-title&quot;&gt;Murano s&lt;/h2&gt;
-	                  &lt;h1 class=&quot;car-price&quot;&gt;$289/mes&lt;/h1&gt;
-	                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 23115. 36 meses, 12k millas por arrendamiento del año. $1999 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;  
+								  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
+                  &lt;h2 class=&quot;car-title&quot;&gt;Murano s&lt;/h2&gt;
+                  &lt;h1 class=&quot;car-price&quot;&gt;$289/mes&lt;/h1&gt;
+                  &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 23115. 36 meses, 12k millas por arrendamiento del año. $1999 al moment de firma. $0 depósito de seguridad. Dos o más a este precio. Más impuestos, etiqueta y título. Con crédito aprobado. Pregunte para más detalles.&lt;/p&gt;
 								&lt;/td&gt;
 							&lt;/tr&gt;
 						&lt;/table&gt;
@@ -437,12 +442,12 @@
 						&lt;table class=&quot;contents&quot;&gt;
 							&lt;tr&gt;
 								&lt;td class=&quot;&quot;&gt;
-									  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
-	                  &lt;h2 class=&quot;car-title&quot;&gt;Titan SV&lt;/h2&gt;
-	                  &lt;h3 class=&quot;titan-car-price&quot;&gt;$29,435 or&lt;/h3&gt;
-									  &lt;h3 class=&quot;save-up-to&quot;&gt;Ahorre Hasta&lt;/h3&gt;
-									  &lt;h3 class=&quot;titan-car-price&quot;&gt;$8,000 de MSRP&lt;/h3&gt;
-					          &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 34315. STK# 36739. El distribuidor retiene todas las rebajas y incentives.  Dos o más a este precio. Más impuestos, etiqueta, título y $799 doc tarifa. El exterior del vehículo colorea en la reserva es el Negro Magnético.&lt;/p&gt;  
+								  &lt;p class=&quot;car-intro&quot;&gt;Nuevo Nissan 2015&lt;/p&gt;
+                  &lt;h2 class=&quot;car-title&quot;&gt;Titan SV&lt;/h2&gt;
+                  &lt;h3 class=&quot;titan-car-price&quot;&gt;$29,435 or&lt;/h3&gt;
+								  &lt;h3 class=&quot;save-up-to&quot;&gt;Ahorre Hasta&lt;/h3&gt;
+								  &lt;h3 class=&quot;titan-car-price&quot;&gt;$8,000 de MSRP&lt;/h3&gt;
+				          &lt;p class=&quot;car-fine-print&quot;&gt;MDL# 34315. STK# 36739. El distribuidor retiene todas las rebajas y incentives.  Dos o más a este precio. Más impuestos, etiqueta, título y $799 doc tarifa. El exterior del vehículo colorea en la reserva es el Negro Magnético.&lt;/p&gt;  
 								&lt;/td&gt;
 							&lt;/tr&gt;
 						&lt;/table&gt;
@@ -464,9 +469,9 @@
 				&lt;td class=&quot;inner contents&quot;&gt;
 					 &lt;table class=&quot;button radius car-button&quot;&gt;
               &lt;tr&gt;
-                  &lt;td&gt;
-                      &lt;a href=&quot;http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&amp;amp;year=&amp;amp;make=Nissan&amp;amp;model=Titan&amp;amp;body=&amp;amp;type=new&amp;amp;utm_source=action&amp;amp;utm_medium=email&amp;amp;utm_term=Titan&amp;amp;utm_campaign=SNFM-0338&quot;&gt;Ver Titan Inventario&lt;/a&gt;
-                  &lt;/td&gt;
+                &lt;td&gt;
+                  &lt;a href=&quot;http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&amp;amp;year=&amp;amp;make=Nissan&amp;amp;model=Titan&amp;amp;body=&amp;amp;type=new&amp;amp;utm_source=action&amp;amp;utm_medium=email&amp;amp;utm_term=Titan&amp;amp;utm_campaign=SNFM-0338&quot;&gt;Ver Titan Inventario&lt;/a&gt;
+                &lt;/td&gt;
               &lt;/tr&gt;
           &lt;/table&gt;
 				&lt;/td&gt;
@@ -559,7 +564,7 @@
 					 &lt;table class=&quot;button radius warranty-button&quot;&gt;
               &lt;tr&gt;
                   &lt;td&gt;
-                      &lt;a href=&quot;http://www.sutherlinnissanftmyers.com/?utm_source=action&amp;amp;utm_medium=email&amp;amp;utm_term=New_Used_Inv&amp;amp;utm_campaign=SNFM-0338&quot;&gt;Haga clic aquí para ver nuestro inventario&lt;/a&gt;
+                    &lt;a href=&quot;http://www.sutherlinnissanftmyers.com/?utm_source=action&amp;amp;utm_medium=email&amp;amp;utm_term=New_Used_Inv&amp;amp;utm_campaign=SNFM-0338&quot;&gt;Haga clic aquí para ver nuestro inventario&lt;/a&gt;
                   &lt;/td&gt;
               &lt;/tr&gt;
           &lt;/table&gt;
@@ -575,7 +580,7 @@
 			&lt;tr&gt;
 				&lt;td class=&quot;inner contents&quot;&gt;
 					&lt;h2 class=&quot;&quot;&gt;Visite Nuestras Ofertas De Servicio Sutherlin&lt;/h2&gt;
-                  &lt;p class=&quot;&quot;&gt;Imprimir este correo electrónico para recibir ofertas.&lt;/p&gt;
+          &lt;p class=&quot;&quot;&gt;Imprimir este correo electrónico para recibir ofertas.&lt;/p&gt;
 				&lt;/td&gt;
 			&lt;/tr&gt;
 		&lt;/table&gt;
@@ -617,10 +622,7 @@
 								 &lt;h5 class=&quot;&quot;&gt;Luz de Verificación del motor Diagnóstico&lt;/h5&gt;
                     &lt;h3 class=&quot;&quot;&gt;50% de descuento&lt;/h3&gt;
                     &lt;p class=&quot;&quot;&gt;
-                      	* Escanear y recuperar código luz código
-						* Diagnóstico completo del sistema relacionadas con el código de apuro
-						* Consulta sobre reparación recomendada
-						* Conexión multipunto inspección
+                      	* Escanear y recuperar código luz código  * Diagnóstico completo del sistema relacionadas con el código de apuro  * Consulta sobre reparación recomendada  * Conexión multipunto inspección
                     &lt;/p&gt;
                     &lt;br /&gt;
                     &lt;p class=&quot;car-fine-print&quot;&gt;Más impuestos. Límite de un cupón por persona. No se puede combinar con otras ofertas. Oferta termina el 31/10/15.&lt;/p&gt; 
@@ -709,7 +711,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-  &lt;td class=&quot;call-to-action&quot;&gt;
+  &lt;td class=&quot;call-to-action-credit&quot;&gt;
     &lt;h1&gt;Get Your Free Credit Score Now&lt;/h1&gt;
   
     

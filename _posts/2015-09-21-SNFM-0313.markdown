@@ -20,7 +20,7 @@ categories: SNFM
 </tr>
 
 <tr>
-  <td class="call-to-action">
+  <td class="call-to-action-credit">
     <h1>Get Your Free Credit Score Now</h1>
   
     
