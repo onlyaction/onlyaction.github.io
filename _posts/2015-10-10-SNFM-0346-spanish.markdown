@@ -40,7 +40,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius credit-button">
                 <tr>
                     <td>
-                        <a href="http://www.sutherlinnissanftmyers.com/credit-application-estimator?utm_source=action&utm_medium=email&utm_term=Credit_Est&utm_campaign=SNFM-0338">¡Haga clic aquí!</a>
+                        <a href="http://www.nissansaleslatino.com/credit-application.cfm?utm_source=action&utm_medium=email&utm_term=Credit_Est&utm_campaign=SNFM-0346">¡Haga clic aquí!</a>
                     </td>
                 </tr>
             </table>
@@ -110,7 +110,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius car-button">
               <tr>
                   <td>
-                     <a href="http://www.sutherlinnissanftmyers.com/Inventario?condition=New&year=&make=Nissan&model=Sentra&body=&type=new&utm_source=action&utm_medium=email&utm_term=Sentra&utm_campaign=SNFM-0338">Ver Sentra Inventario</a>
+                     <a href="http://www.nissansaleslatino.com/inventory.cfm?type=new&make=Nissan&model=Sentra&utm_source=action&utm_medium=email&utm_term=Sentra&utm_campaign=SNFM-0346">Ver Sentra Inventario</a>
                   </td>
               </tr>
           </table>
@@ -180,7 +180,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius car-button">
               <tr>
                   <td>
-                      <a href="http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&year=&make=Nissan&model=Rogue+Select&body=&type=new&utm_source=action&utm_medium=email&utm_term=Rogue&utm_campaign=SNFM-0338">Ver Rogue Inventario</a>
+                      <a href="http://www.nissansaleslatino.com/inventory.cfm?type=new&make=Nissan&model=Rogue+Select&utm_source=action&utm_medium=email&utm_term=Rogue&utm_campaign=SNFM-0346">Ver Rogue Inventario</a>
                   </td>
               </tr>
           </table>
@@ -250,7 +250,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius car-button">
               <tr>
                   <td>
-                      <a href="http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&year=&make=Nissan&model=Versa&body=&type=new&utm_source=action&utm_medium=email&utm_term=Versa&utm_campaign=SNFM-0338">Ver Versa Inventario</a>
+                      <a href="http://www.nissansaleslatino.com/inventory.cfm?type=new&make=Nissan&model=Versa&utm_source=action&utm_medium=email&utm_term=Versa&utm_campaign=SNFM-0346">Ver Versa Inventario</a>
                   </td>
               </tr>
           </table>
@@ -320,7 +320,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius car-button">
               <tr>
                   <td>
-                    <a href="http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&year=&make=Nissan&model=Altima&body=&type=new&utm_source=action&utm_medium=email&utm_term=Altima&utm_campaign=SNFM-0338">Ver Altima Inventario</a>
+                    <a href="http://www.nissansaleslatino.com/inventory.cfm?type=new&make=Nissan&model=Altima&utm_source=action&utm_medium=email&utm_term=Altima&utm_campaign=SNFM-0346">Ver Altima Inventario</a>
                   </td>
               </tr>
           </table>
@@ -390,7 +390,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius car-button">
               <tr>
                   <td>
-                     <a href="http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&year=&make=Nissan&model=Murano&body=&type=new&utm_source=action&utm_medium=email&utm_term=Murano&utm_campaign=SNFM-0338">Ver Murano Inventario</a>
+                     <a href="http://www.nissansaleslatino.com/inventory.cfm?type=new&make=Nissan&model=Murano&utm_source=action&utm_medium=email&utm_term=Murano&utm_campaign=SNFM-0346">Ver Murano Inventario</a>
                   </td>
               </tr>
           </table>
@@ -462,7 +462,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius car-button">
               <tr>
                 <td>
-                  <a href="http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&year=&make=Nissan&model=Titan&body=&type=new&utm_source=action&utm_medium=email&utm_term=Titan&utm_campaign=SNFM-0338">Ver Titan Inventario</a>
+                  <a href="http://www.nissansaleslatino.com/inventory.cfm?type=new&make=Nissan&model=Titan&utm_source=action&utm_medium=email&utm_term=Titan&utm_campaign=SNFM-0346">Ver Titan Inventario</a>
                 </td>
               </tr>
           </table>
@@ -533,7 +533,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius car-button">
 		          <tr>
 		              <td>
-		              	<a href="http://www.sutherlinnissanftmyers.com/Inventario.php?condition=New&year=&make=Nissan&model=Maxima&body=&type=new&utm_source=action&utm_medium=email&utm_term=Maxima&utm_campaign=SNFM-0338">Ver Maxima Inventario</a>
+		              	<a href="http://www.nissansaleslatino.com/inventory.cfm?type=new&make=Nissan&model=Maxima&utm_source=action&utm_medium=email&utm_term=Maxima&utm_campaign=SNFM-0346">Ver Maxima Inventario</a>
 		              </td>
 		          </tr>
 		      </table>
@@ -556,7 +556,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius warranty-button">
               <tr>
                   <td>
-                    <a href="http://www.sutherlinnissanftmyers.com/?utm_source=action&utm_medium=email&utm_term=New_Used_Inv&utm_campaign=SNFM-0338">Haga clic aquí para ver nuestro inventario</a>
+                    <a href="http://www.nissansaleslatino.com/?utm_source=action&utm_medium=email&utm_term=New_Used_Inv&utm_campaign=SNFM-0346">Haga clic aquí para ver nuestro inventario</a>
                   </td>
               </tr>
           </table>
@@ -664,7 +664,7 @@ categories: SNFM, SNFM-spanish
 					 <table class="button radius service-button">
               <tr>
                   <td>
-                      <a href="http://www.sutherlinnissanftmyers.com/schedule-service?utm_source=action&utm_medium=email&utm_term=Sched_Service&utm_campaign=SNFM-0338">Haga clic aquí</a>
+                      <a href="http://www.nissansaleslatino.com/schedule-service.cfm?utm_source=action&utm_medium=email&utm_term=Sched_Service&utm_campaign=SNFM-0346">Haga clic aquí</a>
                   </td>
               </tr>
           </table>
