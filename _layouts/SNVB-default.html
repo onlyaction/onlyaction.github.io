@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  {% include SNVB-head.html %}
+
+	<body>
+		<center class="wrapper">
+			<div class="webkit">
+				<!--[if (gte mso 9)|(IE)]>
+				<table width="600" align="center">
+				<tr>
+				<td>
+				<![endif]-->
+				<table class="outer" align="center">
+
+		          	{% include SNVB-header.html %}
+
+		       
+		          	{{ content }}
+		        
+
+		         	{% include SNVB-footer.html %}
+
+		        </table>
+		        <!--[if (gte mso 9)|(IE)]>
+		        </td>
+		        </tr>
+		        </table>
+		        <![endif]-->
+	    	</div>
+	    </center>
+	</body>
+</html>
+
